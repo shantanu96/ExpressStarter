@@ -57,4 +57,4 @@ If you'd like to contribute to this project, please feel free to fork this repos
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/shantanu96/ExpressStarter/blob/main/LICENSE) file for details.
