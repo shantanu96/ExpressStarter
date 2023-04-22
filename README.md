@@ -1,5 +1,3 @@
-Sure, here's an example `README.md` file for the Express.js starter code we created earlier:
-
 # Express.js Starter
 
 This is a simple starter code for creating a blog website with Express.js.
